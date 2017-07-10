@@ -1,7 +1,6 @@
 SocialSensor -- Use of Social Media as a sensor for detection and prediction of various phenomena.
 
-Copyright (C) 2015, Scott Sanner (ssanner@gmail.com) and
-                    Zahra Iman (zahra.iman87@gmail.com) and Mohamed Reda BOUADJENEK <rbouadjenek@gmail.com> and Dan Nguyen <nguyenk4@onid.oregonstate.edu>
+Copyright (C) 2017, Scott Sanner (ssanner@gmail.com) and Daniel Xiaoliang Shi (danielxlshi@gmail.com)
 
 
 General Information
@@ -18,15 +17,10 @@ COPYRIGHT
 ---------
 See LICENCE
 
-
-DOCUMENTATION
--------------
-Javadoc will be available soon
-
-
-INSTALLATION
+Requirement
 ------------
-See INSTALL
+Jupyter notebook
+Python 2
 
 
 DOWNLOAD
@@ -37,15 +31,10 @@ git: github.com/rishirdua/twitter-lucene
 AUTHORS
 -------
 Scott Sanner <Scott.Sanner@nicta.com.au>
-Zahra Iman (zahra.iman87@gmail.com)
-Mohamed Reda BOUADJENEK <rbouadjenek@gmail.com>
-Dan Nguyen <nguyenk4@onid.oregonstate.edu>
+Daniel Shi (danielxlshi@gmail.com)
 
 To submit bugs, feature requests, submit patches
-Email: Zahra Iman<imanz@onid.orst.edu>
-
-Mailing list:
-To get announcements, or join the user or dev community in other forms you need to wait now.
+Email: Daniel Shi<xiaoliang.shi@mail.utoronto.ca>
 
 LEGAL
 -----
